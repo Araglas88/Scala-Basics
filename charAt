@@ -1,0 +1,3 @@
+val str = "This is a String"
+println( "The character at position 4th is " + str.charAt(3))
+output : The character at position 4th is s
